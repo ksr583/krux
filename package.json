@@ -1,0 +1,28 @@
+{
+  "name": "krux",
+  "version": "0.0.1",
+  "description": "A CSS toolset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksr583/krux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksr583/krux/issues"
+  },
+  "homepage": "https://github.com/ksr583/krux#readme",
+  "devDependencies": {
+    "autoprefixer": "6.3.6",
+    "babel-cli": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "6.1.1",
+    "gulp-sourcemaps": "1.6.0",
+    "precss": "1.4.0"
+  }
+}
